@@ -1,0 +1,9 @@
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\bin\Debug\ClassLibrary1Tests.dll
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\bin\Debug\ClassLibrary1Tests.pdb
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\bin\Debug\ClassLibrary1.dll
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\bin\Debug\nunit.framework.dll
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\bin\Debug\ClassLibrary1.pdb
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\bin\Debug\nunit.framework.xml
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.csprojResolveAssemblyReference.cache
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.dll
+C:\Users\wul\Documents\template-csharp-nunit-tdd\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.pdb
